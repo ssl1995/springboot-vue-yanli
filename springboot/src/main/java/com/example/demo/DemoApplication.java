@@ -7,9 +7,7 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 @SpringBootApplication
 @EnableWebSecurity   //开启security
 public class DemoApplication {
-	/**
-	 * 启动类11
-	 */
+
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}

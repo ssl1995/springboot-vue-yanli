@@ -10,7 +10,7 @@
 import { ElConfigProvider } from 'element-plus'
 
 import zhCn from 'element-plus/lib/locale/lang/zh-cn'
-// 测试前端init
+
 export default {
   name: "App",
   components: {
